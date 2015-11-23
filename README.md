@@ -1,0 +1,2 @@
+# LeagueSharp
+LeagueSharp assemblies ;d
