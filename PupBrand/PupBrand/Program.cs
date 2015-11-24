@@ -44,7 +44,6 @@ namespace PupBrand
             R.SetTargetted(0.25f, 1000);
 
             Game.OnUpdate += Game_OnGameUpdate;
-
         }
         private static void Game_OnGameUpdate(EventArgs args)
         {
