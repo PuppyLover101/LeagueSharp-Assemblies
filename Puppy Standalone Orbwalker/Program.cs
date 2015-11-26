@@ -20,7 +20,7 @@ namespace PuppyStandAloneOrbwalker
         {
             Config = new Menu("PuppyStandalone Orbwalker", "PuppyStandalone Orbwalker", true);
             Menu orbwalkerConfig = new Menu("Orbwalker", "orbwalker");
-            _orbwalker = new Orbwalking.Orbawlker(orbwalkerConfig);
+            _orbwalker = new Orbwalking.Orbwalker(orbwalkerConfig);
             Config.AddSubMenu(orbwalkerConfig);
             Config.AddToMainMenu();
         }
@@ -31,4 +31,3 @@ namespace PuppyStandAloneOrbwalker
         }
     }
 }
-
