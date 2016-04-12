@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D8361C9E-C4C9-4106-A230-A2D52C96501E}</ProjectGuid>
+    <ProjectGuid>{4B4087AA-BC65-40CF-88BD-C9710DF7E96F}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>PupJayce</RootNamespace>
-    <AssemblyName>PupJayce</AssemblyName>
+    <RootNamespace>Hello_World</RootNamespace>
+    <AssemblyName>Hello World</AssemblyName>
     <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
